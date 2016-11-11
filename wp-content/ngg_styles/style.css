@@ -1,0 +1,14 @@
+/*
+CSS Name: Reasanik
+Description: style for theme Reasanik
+Author: Bannikova Anna
+Version: 1.0
+*/
+
+* {
+  box-sizing: content-box;
+}
+
+div {
+  background-color: #fff;
+}
